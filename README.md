@@ -4,7 +4,7 @@ Student Information System is a tool for tracking students, teachers/professors,
 
 ## ER Diagram
 
-![ER Diagram](ER_Diagram.png)
+![ER Diagram](ER_Diagram.PNG)
 
 ## Phase 1
 
