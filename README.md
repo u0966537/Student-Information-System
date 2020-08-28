@@ -2,6 +2,10 @@
 
 Student Information System is a tool for tracking students, teachers/professors, records, classes, materials, etc. The best example of an Student Information System is Cavnas. 
 
+## ER Diagram
+
+![image info](./ER_Diagram.png)
+
 ## Phase 1
 
 Design a database to serve the specific goal of the project. This will be a high-level abstractdesign in the form of an entity-relationship diagram.
